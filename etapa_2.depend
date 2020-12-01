@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1606819426 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/Apreciere.cpp
+
+1604842411 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/Autor.cpp
+	"Autor.h"
+	<iostream>
+	<string.h>
+
+1604836865 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/Autor.h
+	<iostream>
+	"Carte.h"
+
+1606847613 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/Carte.h
+	<iostream>
+	<cstring>
+
+1604838272 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/Carte.cpp
+	"Carte.h"
+	<iostream>
+	<fstream>
+
+1604833139 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/Cititor.cpp
+	"Cititor.h"
+	<iostream>
+	<string.h>
+	"Imprumut.h"
+	"Autor.h"
+
+1604828832 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/Cititor.h
+	<iostream>
+	"Carte.h"
+
+1606819468 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/Imprumut.h
+	<iostream>
+	"Carte.h"
+
+1604594157 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/DBMS.cpp
+	"DBMS.h"
+
+1604594157 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/DBMS.h
+	<iostream>
+
+1606847710 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/EBook.cpp
+	"EBook.h"
+
+1606847678 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/EBook.h
+	"Carte.h"
+	"IClasificabil.h"
+
+1606853032 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/IClasificabil.h
+	<vector>
+	"Apreciere.h"
+
+1606851097 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/Apreciere.h
+
+1606818690 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/IClasificabil.cpp
+	"IClasificabil.h"
+
+1604834670 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/Imprumut.cpp
+	"Imprumut.h"
+	"Cititor.h"
+	<iostream>
+	<cstring>
+
+1606851465 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/main.cpp
+	<iostream>
+	<fstream>
+	"Carte.h"
+	"Autor.h"
+	"Imprumut.h"
+	"Cititor.h"
+	"DBMS.h"
+	"Apreciere.h"
+	"ApreciereScurta.h"
+	"ApreciereCompusa.h"
+
+1606852637 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/ApreciereScurta.h
+	"Apreciere.h"
+	<iostream>
+
+1606851903 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/ApreciereCompusa.h
+	"Apreciere.h"
+	<cstring>
+	<iostream>
+
+1606851742 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/ApreciereCompusa.cpp
+	"ApreciereCompusa.h"
+	<iostream>
+
+1606852703 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/ApreciereScurta.cpp
+	"ApreciereScurta.h"
+	<cstring>
+	<iostream>
+
+1606853060 source:/home/stefan/Desktop/Elena/LABORATOR/etapa_2/Jurnalist.cpp
+	"Jurnalist.h"
+	"Autor.h"
+
+1606852953 /home/stefan/Desktop/Elena/LABORATOR/etapa_2/Jurnalist.h
+	"IClasificabil.h"
+	"Autor.h"
+

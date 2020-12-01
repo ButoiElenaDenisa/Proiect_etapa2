@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="etapa_2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/etapa_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/etapa_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Apreciere.cpp" />
+		<Unit filename="Apreciere.h" />
+		<Unit filename="ApreciereCompusa.cpp" />
+		<Unit filename="ApreciereCompusa.h" />
+		<Unit filename="ApreciereScurta.cpp" />
+		<Unit filename="ApreciereScurta.h" />
+		<Unit filename="Autor.cpp" />
+		<Unit filename="Autor.h" />
+		<Unit filename="Carte.cpp" />
+		<Unit filename="Carte.h" />
+		<Unit filename="Cititor.cpp" />
+		<Unit filename="Cititor.h" />
+		<Unit filename="DBMS.cpp" />
+		<Unit filename="DBMS.h" />
+		<Unit filename="EBook.cpp" />
+		<Unit filename="EBook.h" />
+		<Unit filename="IClasificabil.cpp" />
+		<Unit filename="IClasificabil.h" />
+		<Unit filename="Imprumut.cpp" />
+		<Unit filename="Imprumut.h" />
+		<Unit filename="Jurnalist.cpp" />
+		<Unit filename="Jurnalist.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
